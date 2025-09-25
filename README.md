@@ -1,4 +1,4 @@
-# BTS535NAA Group 7
+# BTS535NCC Group 7
 
 ## Developers
 | Name        |   Role |     Github    | Email       |
@@ -9,7 +9,7 @@
 
 ## Mobile App for Sharing List/Notes
 
- Users want to be able to store information easily and quickly in the the form of list and notes. Users need an application for their phone that will let them view notes and lists at-a-glance and colloaborate on projects with others. 
+ Users want to be able to store information easily and quickly in the the form of list and notes. Users need an application for their phone that will let them view notes and lists at-a-glance and collaborate on projects with others. 
  
 We want to create a elegantly designed mobile app that allows users to create and share lists and notes. We want to make an application that users can use with ease.
 

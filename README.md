@@ -6,9 +6,9 @@
 
 ## Mobile App for Sharing List/Notes
 
-We want to create a elegantly designed mobile app that allows users to create and share lists and notes
- Describe the problem;
+ Users want to be able to store information easily and quickly in the the form of list and notes. Users need an application for their phone that will let them view notes and lists at-a-glance and colloaborate on projects with others. 
+ 
+We want to create a elegantly designed mobile app that allows users to create and share lists and notes. We want to make an application that users can use with ease.
 
-2 - Propose a solution;
 
-3 - List the technologies required by the solution.
+In order to create this application we will need to use app creating technologies such as React Native. We will also need tools that allow us to create quickly retrievable information stored in noSQL databases, such as mongoDB. Additionally, in order to design a simple and elegant app, we will use tools such as Figma, to mockup designs.

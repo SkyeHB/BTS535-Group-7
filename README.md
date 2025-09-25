@@ -5,7 +5,7 @@
 | ----------- | --------- | --------- | --------------------------- |
 | Skye Bragg  | Back-End Dev | SkyeHB | sbragg@myseneca.ca |
 | Fill me | Front-End Dev |Fill me | Fill me@senecacollege.ca |
-| fill me  | Database Specialist | fill me | fill me@senecacollege.ca |
+| Harrison Dhammaviriya | Database Specialist | HarrisonSdv | hdhammaviriya@senecacollege.ca |
 
 ## Mobile App for Sharing List/Notes
 

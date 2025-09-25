@@ -1,8 +1,11 @@
 # BTS535NAA Group 7
-## Members:
-##### Skye H Bragg
-##### -Name-
-##### -Name-
+
+## Developers
+| Name        |   Role |     Github    | Email       |
+| ----------- | --------- | --------- | --------------------------- |
+| Skye Bragg  | Back-End Dev | SkyeHB | sbragg@myseneca.ca |
+| Fill me | Front-End Dev |Fill me | Fill me@senecacollege.ca |
+| fill me  | Database Specialist | fill me | fill me@senecacollege.ca |
 
 ## Mobile App for Sharing List/Notes
 

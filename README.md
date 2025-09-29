@@ -5,7 +5,7 @@
 | ----------- | --------- | --------- | --------------------------- |
 | Skye Bragg  | Back-End Dev | SkyeHB | sbragg@myseneca.ca |
 | Muhammad Hamid Ali Khalid | Front-End Dev |mhakhalid | mhakhalid@myseneca.ca |
-| Harrison Dhammaviriya | Database Specialist | HarrisonSdv | hdhammaviriya@senecacollege.ca |
+| Harrison Dhammaviriya | Database Specialist | HarrisonSdv | hdhammaviriya@myseneca.ca |
 
 ## Mobile App for Sharing List/Notes
 

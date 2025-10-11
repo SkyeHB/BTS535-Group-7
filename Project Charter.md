@@ -1,6 +1,6 @@
 # Note Sharing App
 
-## Introduction
+## 1. Introduction
 
 This project aims to develop a collaborative note-taking and list-sharing web application. The app will allow users to create personal notes or lists, share them with friends, and collaborate in real time. Users will be able to edit shared notes simultaneously, view updates instantly, and organize their ideas effectively. The goal is to simplify group productivity, brainstorming, and planning tasks through a clean and interactive interface.
 

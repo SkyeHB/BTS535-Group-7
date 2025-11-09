@@ -29,6 +29,28 @@ The system will be deployed prior to the end of the Fall semester and tested in 
 4. Enable sharing functionality and collaborative editing features.  
 5. Deploy the application to a live server for user testing and feedback collection.  
 
+### 3.1 Work Breakdown Structure (WBS)
+
+<img width="5780" height="1993" alt="image" src="https://github.com/user-attachments/assets/5d4d4b71-10b7-4e10-837b-82c32ffe50a4" />
+
+### 3.2 Requirement Traceability Matrix (RTM)
+
+The Requirements Traceability Matrix (RTM) below outlines the mapping between all functional requirements, their corresponding deliverables, assigned owners, and current project status. This matrix ensures accountability, coverage, and clarity of scope for the Note Sharing App project.
+
+| **Requirement ID** | **Requirements Description** | **Deliverable ID** | **Deliverable Description** | **Owner** | **Status** |
+|---------------------|------------------------------|--------------------|-----------------------------|------------|-------------|
+| REQ-001 | Note Creation | DEV-001 | Note Creation Feature | Skye Bragg | In Progress |
+| REQ-002 | List Creation | DEV-002 | List Creation Feature | Skye Bragg | Not Started |
+| REQ-003 | Notes and List Customization | DEV-003 | Notes and List Customization | Muhammad Hamid | In Progress |
+| REQ-004 | User Authentication | DEV-004 | User Authentication | Harrison Dham | In Progress |
+| REQ-005 | Profile Customization | DEV-005 | Profile Customization | Harrison Dham | Not Started |
+| REQ-006 | Note/List Sharing | DEV-006 | Note/List Sharing | Muhammad Hamid | Not Started |
+| REQ-007 | Note Organization & Recovery | DEV-007 | Note Organization & Recovery | Muhammad Hamid | Not Started |
+| REQ-008 | Data Security | DEV-008 | Data Security | Harrison Dham | Not Started |
+| REQ-009 | Note/List Export | DEV-009 | Note/List Export | Skye Bragg | Not Started |
+
+
+
 
 ## 4. Deliverables
 1. A fully functional web app allowing users to create and manage personal notes/lists.  

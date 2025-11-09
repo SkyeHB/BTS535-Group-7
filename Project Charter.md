@@ -35,7 +35,10 @@ The system will be deployed prior to the end of the Fall semester and tested in 
 
 ### 3.2 Requirement Traceability Matrix (RTM)
 
-Placeholder
+The Requirements Traceability Matrix (RTM) below outlines the mapping between functional requirements, their deliverables, responsible owners, and current status.  
+
+![Requirements Traceability Matrix](RTM.png)
+
 
 
 ## 4. Deliverables

@@ -29,6 +29,14 @@ The system will be deployed prior to the end of the Fall semester and tested in 
 4. Enable sharing functionality and collaborative editing features.  
 5. Deploy the application to a live server for user testing and feedback collection.  
 
+### 3.1 Work Breakdown Structure (WBS)
+
+<img width="5780" height="1993" alt="image" src="https://github.com/user-attachments/assets/5d4d4b71-10b7-4e10-837b-82c32ffe50a4" />
+
+### 3.2 Requirement Traceability Matrix (RTM)
+
+Placeholder
+
 
 ## 4. Deliverables
 1. A fully functional web app allowing users to create and manage personal notes/lists.  

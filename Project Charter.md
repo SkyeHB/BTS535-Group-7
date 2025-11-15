@@ -66,8 +66,7 @@ The Requirements Traceability Matrix (RTM) below outlines the mapping between al
 
 ## 5. Preliminary Budget
 
-<img width="1589" height="303" alt="image" src="https://github.com/user-attachments/assets/eecf2ab7-1d72-42f3-8ad5-6eb69cf9b682" />
-
+<img width="1588" height="301" alt="image" src="https://github.com/user-attachments/assets/96937abc-4a6b-4007-95e6-33de068a3462" />
 
 ## Organization and Stakeholders
 

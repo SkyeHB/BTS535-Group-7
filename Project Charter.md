@@ -59,9 +59,7 @@ The Requirements Traceability Matrix (RTM) below outlines the mapping between al
 4. Responsive user interface for both desktop and mobile browsers.  
 5. Hosted deployment accessible via a public URL.
 
-## 5. Preliminary Budget
-
-<img width="1589" height="304" alt="image" src="https://github.com/user-attachments/assets/2daa40c0-436a-4620-a839-780b1abbee26" />
+## Preliminary Budget
 
 ## Organization and Stakeholders
 

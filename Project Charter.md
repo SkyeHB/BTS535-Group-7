@@ -57,7 +57,12 @@ The Requirements Traceability Matrix (RTM) below outlines the mapping between al
 2. Secure login, registration, and password management system.  
 3. Real-time collaboration on shared notes.  
 4. Responsive user interface for both desktop and mobile browsers.  
-5. Hosted deployment accessible via a public URL.
+5. Hosted deployment accessible via a public URL. 
+
+### 4.1 Gantt Chart
+
+<img width="1920" height="2305" alt="image" src="https://github.com/user-attachments/assets/d483e1f7-c006-4a9d-a938-c2ce29b84921" />
+
 
 ## Preliminary Budget
 

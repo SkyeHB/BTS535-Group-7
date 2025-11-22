@@ -69,6 +69,7 @@ The Requirements Traceability Matrix (RTM) below outlines the mapping between al
 <img width="1588" height="301" alt="image" src="https://github.com/user-attachments/assets/96937abc-4a6b-4007-95e6-33de068a3462" />
 
 ## Organization and Stakeholders
+<img width="5780" height="1993" alt="image" src="" />
 
 ## Risks, Assumptions, and Constraints
 

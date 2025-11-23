@@ -81,6 +81,18 @@ The Requirements Traceability Matrix (RTM) below outlines the mapping between al
 | Users                  | External   | Medium                   | Medium       |
 | Testers                | Internal   | Low                      | Medium       |
 
+## Communications Plan
+
+| **Information**        | **Owner**          | **Audience**                              | **Schedule** | **Channel**     |
+|------------------------|--------------------|--------------------------------------------|--------------|-----------------|
+| Project Status         | Project Manager    | Team Members, Sponsors                    | Biweekly     | MS Teams        |
+| Regulatory Updates     | Government Agencies| Project Manager, Sponsors                 | As Needed    | Email           |
+| User Feedback Summary  | Team Members       | Project Manager, Sponsors, Testers        | Weekly       | GitHub / Discord|
+| App Store Requirements | Google Play Store  | Project Manager                           | As Needed    | Email           |
+| Testing Status         | Testers            | Team Members, Project Manager             | Weekly       | In Person       |
+| Release Notes          | Sponsors           | Users, Team Members                       | Monthly      | Website / Email |
+
+
 
 ## Risks, Assumptions, and Constraints
 

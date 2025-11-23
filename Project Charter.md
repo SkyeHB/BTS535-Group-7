@@ -68,10 +68,10 @@ The Requirements Traceability Matrix (RTM) below outlines the mapping between al
 
 <img width="750" height="750" alt="image" src="https://github.com/user-attachments/assets/96937abc-4a6b-4007-95e6-33de068a3462" />
 
-<img width="750" height="500" alt="image" src="https://raw.githubusercontent.com/SkyeHB/BTS535-Group-7/refs/heads/ws10/Stakeholder-analysis2.png" />
-
 ## Organization and Stakeholders
 <img width="2890" height="997" alt="image" src="https://github.com/SkyeHB/BTS535-Group-7/blob/ws10/Stakeholder-analysis1.png" />
+
+<img width="750" height="500" alt="image" src="https://raw.githubusercontent.com/SkyeHB/BTS535-Group-7/refs/heads/ws10/Stakeholder-analysis2.png" />
 
 | **Stakeholder**        | **Type**   | **Level of Influence**   | **Interest** |
 |------------------------|------------|--------------------------|--------------|

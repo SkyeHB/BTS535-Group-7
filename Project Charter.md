@@ -71,5 +71,16 @@ The Requirements Traceability Matrix (RTM) below outlines the mapping between al
 ## Organization and Stakeholders
 <img width="5780" height="1993" alt="image" src="https://github.com/SkyeHB/BTS535-Group-7/blob/stakeholders-analysis/Stakeholder-analysis.png" />
 
+| **Stakeholder**        | **Type**   | **Level of Influence**   | **Interest** |
+|------------------------|------------|--------------------------|--------------|
+| Google Play Store      | External   | Low                      | Low          |
+| Government Agencies    | External   | Low                      | Low          |
+| Project Manager        | Internal   | High                     | High         |
+| Sponsors               | Internal   | High                     | Medium       |
+| Team Members           | Internal   | High                     | High         |
+| Users                  | External   | Medium                   | Medium       |
+| Testers                | Internal   | Low                      | Medium       |
+
+
 ## Risks, Assumptions, and Constraints
 

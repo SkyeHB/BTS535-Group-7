@@ -61,15 +61,16 @@ The Requirements Traceability Matrix (RTM) below outlines the mapping between al
 
 ### 4.1 Gantt Chart
 
-<img width="1920" height="2305" alt="image" src="https://github.com/user-attachments/assets/d483e1f7-c006-4a9d-a938-c2ce29b84921" />
+<img width="1000" height="1200" alt="image" src="https://github.com/user-attachments/assets/d483e1f7-c006-4a9d-a938-c2ce29b84921" />
 
 
 ## 5. Preliminary Budget
 
-<img width="1588" height="301" alt="image" src="https://github.com/user-attachments/assets/96937abc-4a6b-4007-95e6-33de068a3462" />
+<img width="750" height="750" alt="image" src="https://github.com/user-attachments/assets/96937abc-4a6b-4007-95e6-33de068a3462" />
+<img width="750" height="500" alt="image" src="https://github.com/user-attachments/assets/96937abc-4a6b-4007-95e6-33de068a3462" />
 
 ## Organization and Stakeholders
-<img width="2890" height="997" alt="image" src="https://github.com/SkyeHB/BTS535-Group-7/blob/stakeholders-analysis/Stakeholder-analysis.png" />
+<img width="2890" height="997" alt="image" src="https://github.com/SkyeHB/BTS535-Group-7/blob/ws10/Stakeholder-analysis1.png" />
 
 | **Stakeholder**        | **Type**   | **Level of Influence**   | **Interest** |
 |------------------------|------------|--------------------------|--------------|
@@ -96,4 +97,4 @@ The Requirements Traceability Matrix (RTM) below outlines the mapping between al
 
 ## Risks, Assumptions, and Constraints
 
-<img width="800" height="800" alt="image" src="https://github.com/SkyeHB/BTS535-Group-7/blob/ws10/Risk-Mangement-chart.png" />
+<img width="750" height="750" alt="image" src="https://github.com/SkyeHB/BTS535-Group-7/blob/ws10/Risk-Mangement-chart.png" />

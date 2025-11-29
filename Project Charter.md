@@ -76,7 +76,7 @@ The Requirements Traceability Matrix (RTM) below outlines the mapping between al
 | **Stakeholder**        | **Type**   | **Level of Influence**   | **Interest** |
 |------------------------|------------|--------------------------|--------------|
 | Google Play Store      | External   | Low                      | Low          |
-| Government Agencies    | External   | Low                      | Low          |
+| Government Privacy Policies    | External   | Low                      | Low          |
 | Project Manager        | Internal   | High                     | High         |
 | Sponsors               | Internal   | High                     | Medium       |
 | Team Members           | Internal   | High                     | High         |

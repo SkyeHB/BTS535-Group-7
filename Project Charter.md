@@ -98,4 +98,4 @@ The Requirements Traceability Matrix (RTM) below outlines the mapping between al
 
 ## Risks, Assumptions, and Constraints
 
-<img width="750" height="750" alt="image" src="https://github.com/SkyeHB/BTS535-Group-7/blob/ws10/Risk-Mangement-chart.png" />
+<img width="750" height="750" alt="image" src="https://github.com/SkyeHB/BTS535-Group-7/blob/ws10/CRC/Risk-Evaluation.png" />

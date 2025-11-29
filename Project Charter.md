@@ -31,7 +31,7 @@ The system will be deployed prior to the end of the Fall semester and tested in 
 
 ### 3.1 Work Breakdown Structure (WBS)
 
-<img width="5780" height="1993" alt="image" src="https://github.com/user-attachments/assets/5d4d4b71-10b7-4e10-837b-82c32ffe50a4" />
+<img width="5780" height="1993" alt="image" src="https://github.com/SkyeHB/BTS535-Group-7/blob/ws10/CRC/WorkBreakDownStructure.png" />
 
 ### 3.2 Requirement Traceability Matrix (RTM)
 
@@ -61,20 +61,22 @@ The Requirements Traceability Matrix (RTM) below outlines the mapping between al
 
 ### 4.1 Gantt Chart
 
-<img width="1920" height="2305" alt="image" src="https://github.com/user-attachments/assets/d483e1f7-c006-4a9d-a938-c2ce29b84921" />
+<img width="1000" height="1200" alt="image" src="https://github.com/SkyeHB/BTS535-Group-7/blob/ws10/CRC/Devtimeline.png" />
 
 
 ## 5. Preliminary Budget
 
-<img width="1588" height="301" alt="image" src="https://github.com/user-attachments/assets/96937abc-4a6b-4007-95e6-33de068a3462" />
+<img width="750" height="750" alt="image" src="https://github.com/user-attachments/assets/96937abc-4a6b-4007-95e6-33de068a3462" />
 
 ## Organization and Stakeholders
-<img width="5780" height="1993" alt="image" src="https://github.com/SkyeHB/BTS535-Group-7/blob/stakeholders-analysis/Stakeholder-analysis.png" />
+<img width="750" height="750" alt="image" src="https://github.com/SkyeHB/BTS535-Group-7/blob/ws10/CRC/StakeholderAnalysisMatrix.png" />
+
+<img width="750" height="500" alt="image" src="https://github.com/SkyeHB/BTS535-Group-7/blob/ws10/CRC/StakeholderAnalysisMatrixTable.png" />
 
 | **Stakeholder**        | **Type**   | **Level of Influence**   | **Interest** |
 |------------------------|------------|--------------------------|--------------|
 | Google Play Store      | External   | Low                      | Low          |
-| Government Agencies    | External   | Low                      | Low          |
+| Government Privacy Policies    | External   | Low                      | Low          |
 | Project Manager        | Internal   | High                     | High         |
 | Sponsors               | Internal   | High                     | Medium       |
 | Team Members           | Internal   | High                     | High         |
@@ -96,3 +98,4 @@ The Requirements Traceability Matrix (RTM) below outlines the mapping between al
 
 ## Risks, Assumptions, and Constraints
 
+<img width="750" height="750" alt="image" src="https://github.com/SkyeHB/BTS535-Group-7/blob/ws10/CRC/Risk-Evaluation.png" />
